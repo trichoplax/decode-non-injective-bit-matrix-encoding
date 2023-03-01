@@ -21,7 +21,7 @@ The example from the contest post has the following input:
 4
 1 1 1 1
 1 1 1 1
-0 2
+0 4
 0 2 2 0
 1 2 2 1
 1 2 2 1
@@ -30,7 +30,7 @@ The example from the contest post has the following input:
 This is run using:
 
 ```text
-pypy3 decode.py 4 1 1 1 1 1 1 1 1 0 2 0 2 2 0 1 2 2 1 1 2 2 1
+pypy3 decode.py 4 1 1 1 1 1 1 1 1 0 4 0 2 2 0 1 2 2 1 1 2 2 1
 ```
 
 This results in output:
